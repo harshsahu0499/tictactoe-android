@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe New</string>
+    <string name="activity_main_txtView_credit">An application by Harsh SAHU</string>
+    <string name="activity_main_textView_title">Tic Tac Toe New</string>
+    <string name="activity_main_txtView_currentPlayer">Current player: </string>
+    <string name="activity_main_txtView_xo">X</string>
+    <string name="activity_main_txtView_madeat">Made at</string>
+    <string name="second_txtView_wehaveawinner">We have a winner!</string>
+</resources>
